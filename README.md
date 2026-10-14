@@ -11,6 +11,7 @@ Ich bin Lehrer für Englisch und Digitale Medien an einem Gymnasium. Für meinen
 
 **Jahrgang 8**
 - [Webseiten-Werkstatt](https://github.com/mrbraendt/dm8-webseiten-werkstatt-oer): Die erste eigene Webseite mit HTML und CSS, mit Live-Vorschau, Fehler-Detektiv und automatischer Prüfung. Zum Selbsthosten auf Cloudflare.
+- [0 und 1](https://mrbraendt.github.io/dm8-0und1-oer/): Grundlagen der Informatik im Cyberpunk-Stil, von Bits über Turingmaschine bis Verschlüsselung, mit zwei Spielen.
 - [App-Werkstatt](https://github.com/mrbraendt/dm8-app-werkstatt-oer): Eigene kleine Apps mit Blöcken programmieren, Schritt für Schritt in Stationen. Zum Selbsthosten auf Cloudflare.
 
 ## Lizenz
