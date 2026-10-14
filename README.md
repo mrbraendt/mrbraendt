@@ -9,7 +9,9 @@ Ich bin Lehrer für Englisch und Digitale Medien an einem Gymnasium. Für meinen
 - [Computerspiele](https://mrbraendt.github.io/dm6-computerspiele-oer/): Computerspiele kritisch betrachten, mit Spielen zum Ausprobieren und Nachdenken.
 - [Künstliche Intelligenz](https://mrbraendt.github.io/dm6-KI-oer/): KI-Grundlagen, Prompting, KI und Freundschaft, KI in der Schule, mit Escape Game.
 
-Weitere Lernumgebungen für Jahrgang 8 folgen.
+**Jahrgang 8**
+- [Webseiten-Werkstatt](https://github.com/mrbraendt/dm8-webseiten-werkstatt-oer): Die erste eigene Webseite mit HTML und CSS, mit Live-Vorschau, Fehler-Detektiv und automatischer Prüfung. Zum Selbsthosten auf Cloudflare.
+- [App-Werkstatt](https://github.com/mrbraendt/dm8-app-werkstatt-oer): Eigene kleine Apps mit Blöcken programmieren, Schritt für Schritt in Stationen. Zum Selbsthosten auf Cloudflare.
 
 ## Lizenz
 
