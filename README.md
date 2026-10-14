@@ -14,6 +14,11 @@ Ich bin Lehrer für Englisch und Digitale Medien an einem Gymnasium. Für meinen
 - [0 und 1](https://mrbraendt.github.io/dm8-0und1-oer/): Grundlagen der Informatik im Cyberpunk-Stil, von Bits über Turingmaschine bis Verschlüsselung, mit zwei Spielen.
 - [App-Werkstatt](https://github.com/mrbraendt/dm8-app-werkstatt-oer): Eigene kleine Apps mit Blöcken programmieren, Schritt für Schritt in Stationen. Zum Selbsthosten auf Cloudflare.
 
+## Englisch (Oberstufe)
+
+- [Native Americans: Tradition & Change](https://mrbraendt.github.io/eng-q-native-americans-oer/): Acht kurze Lesetexte mit Glossar für Expertengruppen, von Geschichte und Stereotypen bis Landrechte und Sprachen.
+- [ICE & Deportations 2026](https://mrbraendt.github.io/eng-q1-ice-debate-oer/): Debattenstunde mit Quiz, Rollenkarten und Redemitteln zur US-Einwanderungspolitik.
+
 ## Lizenz
 
 Die Inhalte (Texte, Aufgaben, Grafiken) stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de), Namensnennung: Mr Brändt. Eingebundene Fremdbibliotheken behalten ihre eigenen Lizenzen.
